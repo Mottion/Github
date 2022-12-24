@@ -1,4 +1,4 @@
-# git e Github
+# git e Github: Comandos importantes!
 
 * `git init` - inicia uma linha do tempo;
 * `git add` - adiciona ou atualiza mudanças para irem para a linha do tempo;
@@ -15,4 +15,7 @@
 * `git push` - envia os commits para a nuvem, caso seja o seu primeiro push, use `git push -u origin master`.
 * `git clone [url]` - clona um repositório.
 * `git pull` - puxa as alterações de um repositório na nuvem.
+
+# git e Github: Forks!
+Os Forks permitem que você baixe, altere e faça uma `Pull Request` de um repositório de outra pessoa. Serve para propor mudanças, correção de bugs, ou ideias.
 
